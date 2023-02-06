@@ -108,10 +108,10 @@ h2 span{
 
 @media (max-width: 700px){
     body{
-        width: 850px;  
+        width: 870px;  
     }
     .firstpage{
-        height: 1200px;
+        height: 1350px;
         padding-top:200px;
     }
     .firstpage h1{
@@ -121,6 +121,6 @@ h2 span{
         font-family: 'Edu TAS Beginner', cursive;
     }
     .coo{
-        height: 1000px;
+        height: 1100px;
     }
 }
